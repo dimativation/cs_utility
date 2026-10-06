@@ -1,0 +1,23 @@
+# raw dumps and generated tables
+*.list
+*.pkl
+*.pickle
+data/
+
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+.python-version
+
+# jupyter
+.ipynb_checkpoints/
+
+# tools / os
+.streamlit/
+.DS_Store
+*.egg-info/
+.pytest_cache/
